@@ -25,14 +25,14 @@ Aplikasi ini dibuat dengan:
 4. import file database 'db_beautyzone' yg ada di folder database
    
 # Default User
-* Username : Admin
+* Username : admin
   
-  Pass : 123
+  Pass : admin123
   
-* Username : Petugas
+* Username : petugas
   
-  Pass : 123
+  Pass : petugas123
   
-* Username : Owner
+* Username : owner
   
-  Pass : 123
+  Pass : owner123
